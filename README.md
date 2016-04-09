@@ -1,5 +1,7 @@
 # azk [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/azukiapp/azk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Code Climate](https://codeclimate.com/github/azukiapp/azk/badges/gpa.svg)](https://codeclimate.com/github/azukiapp/azk)
 
+[![Join the chat at https://gitter.im/ReeSilva/azk](https://badges.gitter.im/ReeSilva/azk.svg)](https://gitter.im/ReeSilva/azk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### A development environment orchestration tool
 
 `azk` lets developers easily and quickly install and configure their development environments. Period.
